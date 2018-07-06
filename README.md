@@ -8,6 +8,8 @@ An app which tracks the food items in your home and recommends recipes from an o
   - User will be informed when foods are about to expire
   - User will be informed their recipes nutritional content
   - User can choose between meal types
-  - User will recieve push notifications about what to buy to complete recipes
+  - User will recieve push notifications about what to buy to complete recipes (from favorited recipes)
+  - User can favorite recipes
+  
   Optional
   - calander tracking of nutritional content
